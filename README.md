@@ -1,7 +1,7 @@
 # self-driving_car_traffic_sign_identification
 Class project for  Cogs 181(Deep Learning), UCSD, Fall 2017
 
-# References:
+## References:
 
 - naokishibuya: [https://github.com/naokishibuya/car-traffic-sign-classification] 
 - German Traffic Sign Benchmarks: [http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset]
