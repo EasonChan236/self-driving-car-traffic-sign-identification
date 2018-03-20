@@ -1,4 +1,4 @@
-# self-driving_car_traffic_sign_identification
+# self-driving-car-traffic-sign-identification
 Class project for  Cogs 181(Deep Learning), UCSD, Fall 2017
 
 ## References:
